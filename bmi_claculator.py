@@ -1,6 +1,6 @@
 import eel
 
-eel.init(".")
+eel.init('app')
 
 
 @eel.expose

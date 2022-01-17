@@ -1,0 +1,1 @@
+python -m eel bmi_claculator.py web --noconsole --onefile --icon=icon.ico
